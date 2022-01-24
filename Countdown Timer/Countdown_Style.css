@@ -1,0 +1,10 @@
+p {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+  display: none;
+}
+#start1,#stop1,#reset1{
+	display: none;
+	float: center-left;
+}
